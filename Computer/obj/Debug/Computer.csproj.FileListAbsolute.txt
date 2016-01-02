@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Calculator\Computer\bin\Debug\Computer.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Calculator\Computer\bin\Debug\Computer.exe
+c:\users\user\documents\visual studio 2015\Projects\Calculator\Computer\bin\Debug\Computer.pdb
+c:\users\user\documents\visual studio 2015\Projects\Calculator\Computer\obj\Debug\Computer.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Calculator\Computer\obj\Debug\Computer.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Calculator\Computer\obj\Debug\Computer.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Calculator\Computer\obj\Debug\Computer.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Calculator\Computer\obj\Debug\Computer.exe
+c:\users\user\documents\visual studio 2015\Projects\Calculator\Computer\obj\Debug\Computer.pdb
